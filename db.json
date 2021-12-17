@@ -1,0 +1,52 @@
+{
+  "products": [
+    {
+      "id": 1,
+      "name": "computer",
+      "price": 4300,
+      "quantity": "500",
+      "selected": false,
+      "available": false
+    },
+    {
+      "id": 2,
+      "name": "imprimante",
+      "price": 2300,
+      "quantity": 700,
+      "selected": false,
+      "available": true
+    },
+    {
+      "id": 3,
+      "name": "smartphone",
+      "price": 2300,
+      "quantity": 600,
+      "selected": false,
+      "available": true
+    },
+    {
+      "name": "p",
+      "price": 0,
+      "quantity": "2",
+      "selected": false,
+      "available": true,
+      "id": 4
+    },
+    {
+      "name": "",
+      "price": 0,
+      "quantity": 0,
+      "selected": false,
+      "available": true,
+      "id": 5
+    },
+    {
+      "name": "nnn",
+      "price": 0,
+      "quantity": "9",
+      "selected": true,
+      "available": true,
+      "id": 6
+    }
+  ]
+}
